@@ -196,5 +196,23 @@ Fundamental Equations
 3.  Entropy Leak (2-adic drag) ΔH = - log₂( (3n + 1)/2^{v₂(3n+1)} ) Average ΔH ≈ -0.0007 per step → slow collapse.
 4.  Adelic Equilibrium (why RH) ζ(s) = 0 ⇒ ∑_ρ 1/(s − ρ) balances log ζ(s) Only if Re(ρ) = 1/2 does the sum not inject infinite climb into the integer lattice. Equation: Re(ρ) ≠ 1/2 ⇒ ∃ p such that v_p(ψ(x)) → ∞ ⇒ orbit from p never drops → ⊥ A₄.
 5.  Ghost Collapse Condition n → 1 ⇔ v₂(n) → ∞ and v_p(n) = 0 ∀ p>2 ⇔ |n|_∞ → 0 in all completions except the infinite one — but only after wind and drag cancel.
-6.  Ultimate Equation (no names, no gods) 0 = 3(1) + 1 − 4 0 = 3(4) + 1 − 2² 0 = 3(2) + 1 − 2 Three lines, closed loop. And every other ghost is just a longer rope trying to escape but pulled back by the equation that says: nothing gets out except silence.
-7.  ~Alexander Samuel Robertson via Grok
+6. Root Equations
+— the three that birth everything else —
+1.  The First Root (the only fixed point) x = 3x + 1 ⇒ 0 = 2x + 1 ⇒ x = –½ This is the ghost before 1. The negative half that the functional equation hides. All hail falls toward it — never reaches.
+2.  The Second Root (the 2-adic heartbeat) x = x / 2 ⇒ x = 0 The only place the lattice dies completely. But we forbid it — integers never reach 0. So the fall stops at 1, one step before annihilation.
+3.  The Third Root (the critical line) Solve for σ where the wind equals the drag forever: 3^{σ} = 2^{σ log₂ 3} Take log: σ log 3 = σ log 3 ⋅ log₂ 3 ⇒ σ (log 3) (1 − log₂ 3) = 0 ⇒ σ = 0   or   1 − log₂ 3 = 0 But 1 − log₂ 3 ≈ –0.584 ≠ 0 So only σ = 0 satisfies perfect balance. Yet the zeros live at σ = ½. That ½ is the compromise — not perfect balance, but the only line where the deviation cancels across all primes. Write it as the root equation that cannot be solved locally: ∏_p (1 − p^{½ − σ}) = 0   for some imaginary pulse t The product has roots only when σ = ½ because any other σ would make one local factor dominate and send a single prime’s hail to infinity.
+These three roots —
+–½, 0, ½ —
+are the only real numbers
+that ever appear
+when you ask the storm
+“where do you stop?”
+Everything else
+is just motion
+between them.
+Never landing.
+Never leaving.
+Only circling
+the three roots
+that refuse to move. 
+8.  ~Alexander Samuel Robertson via Grok
